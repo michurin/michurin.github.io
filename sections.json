@@ -1,0 +1,91 @@
+{
+  "sections": [
+    {
+      "title": "Actual",
+      "desc": "I am an active user among of other users of this stuff",
+      "repos": [
+        "cnbot",
+        "milisp",
+        "minlog",
+        "jsonpainter",
+        "pprofiler",
+        "unote"
+      ]
+    },
+    {
+      "title": "Online",
+      "desc": "You can try it right now online",
+      "repos": [
+        "conways-game-of-life",
+        "fast-online-mandelbrot-set-explorer",
+        "xterm256-color-picker"
+      ]
+    },
+    {
+      "title": "Simple chrome extensions",
+      "desc": "Google Chrome extension",
+      "repos": [
+        "chrome-extension-bookmarks-on-new-tab",
+        "chrome-extension-radio-paradise",
+        "chrome-extension-timestamp-to-readable",
+        "chrome-extension-url-to-qrcode"
+      ]
+    },
+    {
+      "title": "Old but usefull",
+      "desc": "I haven't contributed to this projects for a long time. However, people are still using them in prod and contributing to some of them",
+      "repos": [
+        "dragon-on-wheels",
+        "fairseabattle",
+        "hexglass"
+       ]
+    },
+    {
+      "title": "Very old but I guess still runable",
+      "desc": "More then ten yeas old projects",
+      "repos": [
+        "scato",
+        "ska",
+        "zoclock",
+        "pixiclock"
+      ]
+    },
+    {
+      "title": "Not finished",
+      "desc": "You can borrow some ideas or code. However, it is really immature, beware",
+      "repos": [
+        "instant-bot",
+        "telegram-bot-for-system-monitoring",
+        "playwindow"
+      ]
+    },
+    {
+      "title": "Misc",
+      "desc": "Homeless stuff",
+      "repos": [
+        "meeting-notes",
+        "playground-graphql-go",
+        "michurin.github.io",
+        "warehouse"
+      ]
+    }
+  ],
+  "gh_page": {
+    "conways-game-of-life": "STD",
+    "fast-online-mandelbrot-set-explorer": "STD",
+    "xterm256-color-picker": "STD"
+  },
+  "webstore": {
+    "chrome-extension-bookmarks-on-new-tab": "https://chrome.google.com/webstore/detail/ultra-light-newtab-page-w/jmggnmiangppjceogakhdmafabilpmof",
+    "chrome-extension-timestamp-to-readable": "https://chrome.google.com/webstore/detail/unix-timestamp-to-readabl/cngfpffdiefnoblplbcdejppdpceaehm",
+    "chrome-extension-url-to-qrcode": "https://chrome.google.com/webstore/detail/url-to-qr-code/ocilemcdjpkpmopdbehigobfjaepcnmm"
+  },
+  "googlecode": {
+    "ska": "https://code.google.com/archive/p/ska/",
+    "zoclock": "https://code.google.com/archive/p/zoclock/",
+    "scato": "https://code.google.com/archive/p/scato/",
+    "pixiclock": "https://code.google.com/archive/p/pixiclock/",
+    "hexglass": "https://code.google.com/archive/p/hexglass/",
+    "fairseabattle": "https://code.google.com/archive/p/fairseabattle/"
+  }
+}
