@@ -1,0 +1,23 @@
+---
+name: checking # this string appears on badge
+on:
+  - push
+  - pull_request
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v2
+      -
+        name: Install xsltproc
+        run: sudo apt-get install -y xsltproc
+      -
+        name: Looking around
+        run: |
+          pwd
+          ls -al
+      -
+        name: Checking
+        run: make check
