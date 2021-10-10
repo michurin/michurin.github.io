@@ -20,4 +20,4 @@ jobs:
           ls -al
       -
         name: Checking
-        run: make check
+        run: make ci

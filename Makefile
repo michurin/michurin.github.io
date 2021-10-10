@@ -1,4 +1,4 @@
-.PHONY: all clean vanish check long-check
+.PHONY: all clean vanish check long-check ci
 
 all: check
 
@@ -20,4 +20,5 @@ check: check.xslt index.html
 	xsltproc $^
 long-check:
 	make check | sed -n 's/.*\(http[^[:space:]]*\).*/curl -o \/dev\/null -sw "%{http_code}\\n" \1/p' | sh -x
-
+ci: # as far as git doesn't care about ctime, we are make this rule for github actions
+	xsltproc check.xslt index.html
