@@ -36,8 +36,11 @@ a:hover {
 </style>
 </head>
 <body>
+
   <h1>Alexey Michurin</h1>
+
   <h2>Projects</h2>
+
   {%- for section in data.sections %}
   <h3>{{ section.title }}</h3>
   <p>{{ section.desc }}</p>
@@ -56,5 +59,58 @@ a:hover {
     {%- endfor %}
   </ul>
   {%- endfor %}
+
+  <h2>About</h2>
+
+  <ul>
+    <li>Current position: Backend Developer at <a target="_blank" href="https://www.avito.ru/">Avito</a> (owner <a target="_blank" href="https://www.naspers.com/">Naspers</a>)</li>
+    <li>Previous positions:
+      <ul>
+        <li><a target="_blank" href="https://gett.com/">Gett</a>: Payments, Fraud prevention: Golang, PostgreSQL, Node</li>
+        <li><a target="_blank" href="https://yandex.com/">Yandex</a>: Advertising, Weather forecast: Python, Perl, MapReduce, MongoDB</li>
+        <li><a target="_blank" href="https://www.beeline.ru/">Beeline</a>: Billing/inventory: Python, Perl, MySQL</li>
+      </ul>
+    </li>
+    <li>Skills:
+     Linux,
+     Golang,
+     Python,
+     Perl,
+     shell,
+     JavaScript (Node),
+     network,
+     MySQL,
+     PostgreSQL
+     MapReduce,
+     MongoDB,
+     redis,
+     svn/hg/git,
+     C/C++,
+     Qt
+    </li>
+    <li>Education: <a target="_blank" href="http://www.msu.ru/en/">Lomonosov Moscow State University</a></li>
+    <li>Life: wife, daughter</li>
+    <li>Residence: Moscow, Russia</li>
+    <li>First language: russian</li>
+    <li>Misc:
+      <a target="_blank" href="http://projecteuler.net/profile/michurin.png">80 pointes (level 3)</a> on
+      <a target="_blank" href="https://projecteuler.net/">Project Euler</a>
+    </li>
+    <li>Wikipedia contribution:
+      translation of <a target="_blank" href="https://en.wikipedia.org/wiki/Raft_%28computer_science%29">Raft (computer science)</a>:
+      <a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_Raft">Алгоритм Raft</a>
+      <span class="info">(russian)</span></li>
+    <li>Outdated CV: <a target="_blank" href="https://github.com/michurin/warehouse/blob/master/cv/michurin.pdf">michurin.pdf</a></li>
+    <li>Abandoned personal page: <a target="_blank" href="http://www.michurin.net/">www.michurin.net</a> <span class="info">(russian)</span></li>
+    <li>Just for fun project: <a target="_blink" href="http://www.1000mines.com/">Infinite minesweeper puzzle game</a></li>
+  </ul>
+
+  <h2>Contacts</h2>
+
+  <ul>
+    <li>E-mail: a.michurin [at] gmail.com</li>
+    <li>Phone: 2³×3×5²×1609×81901+one</li>
+  </ul>
+
 </body>
 </html>
