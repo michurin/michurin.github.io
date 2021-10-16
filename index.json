@@ -109,7 +109,7 @@
       "lang": "Go"
     },
     "playwindow": {
-      "desc": "Easy-to-use graphics library for very simple programming graphics in synchronous manner.",
+      "desc": "Easy-to-use graphics library for very simple programming graphics in synchronous manner",
       "stars": 0,
       "forks": 0,
       "lang": "Python"
@@ -151,7 +151,7 @@
       "lang": "Vim script"
     },
     "xterm256-color-picker": {
-      "desc": "Online color picker for terminal 256 color palette. Examples for shell prompt, vim, term/xterm.",
+      "desc": "Online color picker for terminal 256 color palette. Examples for shell prompt, vim, term/xterm",
       "stars": 6,
       "forks": 0,
       "lang": "HTML"
@@ -206,7 +206,7 @@
       },
       {
         "title": "Simple chrome extensions",
-        "desc": "Google Chrome extension",
+        "desc": "Google Chrome extensions",
         "repos": [
           "chrome-extension-bookmarks-on-new-tab",
           "chrome-extension-radio-paradise",

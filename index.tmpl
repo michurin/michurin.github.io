@@ -15,7 +15,7 @@ body {
   margin: 3em;
 }
 h1, h2, h3 {
-  color: #222;
+  color: #333;
 }
 a {
   text-decoration: none;
@@ -24,34 +24,37 @@ a {
 a:hover {
   text-decoration: underline;
 }
-.zero {
-  color: #777
+.info {
+  color: #777;
+}
+.info a {
+  color: #070;
+}
+.digit {
+  color: #510;
 }
 </style>
 </head>
 <body>
   <h1>Alexey Michurin</h1>
   <h2>Projects</h2>
-  <table>
   {%- for section in data.sections %}
-    <tr><td colspan="3">
-      <h3>{{ section.title }}</h3>
-      <p>{{ section.desc }}</p>
-    </td></tr>
+  <h3>{{ section.title }}</h3>
+  <p>{{ section.desc }}</p>
+  <ul>
     {%- for repo in section.repos %}
-    <tr valign="top">
-      <td align="right"{% if git[repo].stars == 0 %} class="zero"{% endif %} title="stars">{{ git[repo].stars }}</td>
-      <td align="right"{% if git[repo].forks == 0 %} class="zero"{% endif %} title="forks">{{ git[repo].forks }}</td>
-      <td><a target="_blank" href="https://github.com/michurin/{{ repo }}">{{ repo }}</a> [{{ git[repo].lang }}
-      {%- if repo in cov %}, <a target="_blank" href="https://app.codecov.io/gh/michurin/{{ repo }}">{{ cov[repo].coverage }}%</a>
-      {%- endif -%}
-      {%- if repo in data.gh_page %}, <a target="_blank" href="https://michurin.github.io/{{ repo }}/" title="online">page</a>{% endif %}
-      {%- if repo in data.webstore %}, <a target="_blank" href="{{ data.webstore[repo] }}">webstore</a>{% endif -%}
-      {%- if repo in data.googlecode %}, <a target="_blank" href="{{ data.googlecode[repo] }}" title="archive">googlecode</a>{% endif -%}
-      ]: {{ git[repo].desc }}</td>
-    </tr>
+    <li><a target="_blank" href="https://github.com/michurin/{{ repo }}" title="github">{{ repo }}</a><span class="info">:
+      {{ git[repo].lang -}}
+      {% if git[repo].stars != 0 %}, stars: <span class="digit">{{ git[repo].stars }}</span>{% endif -%}
+      {% if git[repo].forks != 0 %}, forks: <span class="digit">{{ git[repo].forks }}</span>{% endif -%}
+      {% if repo in cov %}, <a target="_blank" href="https://app.codecov.io/gh/michurin/{{ repo }}"  title="codecov">{{ cov[repo].coverage }}%</a>{% endif -%}
+      {% if repo in data.gh_page %}, <a target="_blank" href="https://michurin.github.io/{{ repo }}/" title="online">page</a>{% endif -%}
+      {% if repo in data.webstore %}, <a target="_blank" href="{{ data.webstore[repo] }}" title="chrome webstore">webstore</a>{% endif -%}
+      {% if repo in data.googlecode %}, <a target="_blank" href="{{ data.googlecode[repo] }}" title="archive">googlecode</a>{% endif -%}
+    </span><br/>
+    {{- git[repo].desc -}}</li>
     {%- endfor %}
+  </ul>
   {%- endfor %}
-  </table>
 </body>
 </html>
