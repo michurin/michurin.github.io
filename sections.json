@@ -23,7 +23,7 @@
     },
     {
       "title": "Simple chrome extensions",
-      "desc": "Google Chrome extension",
+      "desc": "Google Chrome extensions",
       "repos": [
         "chrome-extension-bookmarks-on-new-tab",
         "chrome-extension-radio-paradise",
