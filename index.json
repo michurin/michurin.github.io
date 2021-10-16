@@ -1,0 +1,275 @@
+{
+  "git": {
+    "chrome-extension-bookmarks-on-new-tab": {
+      "desc": "Chrome extension makes new tab extremely lightweight page with bookmarks access",
+      "stars": 7,
+      "forks": 3,
+      "lang": "JavaScript"
+    },
+    "chrome-extension-radio-paradise": {
+      "desc": "[no-longer-supported] Chrome extension to listen to Radio Paradise online",
+      "stars": 3,
+      "forks": 1,
+      "lang": "JavaScript"
+    },
+    "chrome-extension-timestamp-to-readable": {
+      "desc": "Chrome extension to make UNIX timestamps on Web pages readable",
+      "stars": 2,
+      "forks": 1,
+      "lang": "JavaScript"
+    },
+    "chrome-extension-url-to-qrcode": {
+      "desc": "Google Chrome extension to generate QR-code with URL of current openned page.",
+      "stars": 1,
+      "forks": 0,
+      "lang": "JavaScript"
+    },
+    "cnbot": {
+      "desc": "The tool to build your custom Telegram bot easier than ever",
+      "stars": 24,
+      "forks": 3,
+      "lang": "Go"
+    },
+    "conways-game-of-life": {
+      "desc": "Fast Conway's Game of Life in JavaScript and canvas",
+      "stars": 2,
+      "forks": 0,
+      "lang": "JavaScript"
+    },
+    "dragon-on-wheels": {
+      "desc": "Simple pure Python SCGI/WSGI threaded server",
+      "stars": 4,
+      "forks": 0,
+      "lang": "Python"
+    },
+    "fairseabattle": {
+      "desc": "Sea Battle game, based on AI only",
+      "stars": 1,
+      "forks": 2,
+      "lang": "C++"
+    },
+    "fast-online-mandelbrot-set-explorer": {
+      "desc": "Fast WebGL online Mandelbrot/Julia sets explorer",
+      "stars": 0,
+      "forks": 0,
+      "lang": "JavaScript"
+    },
+    "hexglass": {
+      "desc": "Tetris like puzzle game on the hexagonal board",
+      "stars": 1,
+      "forks": 2,
+      "lang": "C++"
+    },
+    "instant-bot": {
+      "desc": "Easily extensible Telegram bot",
+      "stars": 0,
+      "forks": 0,
+      "lang": "JavaScript"
+    },
+    "jsonpainter": {
+      "desc": "Fuzzy JSON highlighting",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Go"
+    },
+    "meeting-notes": {
+      "desc": "[meeting-notes] meeting materials",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Go"
+    },
+    "michurin.github.io": {
+      "desc": "github page",
+      "stars": 0,
+      "forks": 0,
+      "lang": "HTML"
+    },
+    "milisp": {
+      "desc": "Multiple implementations (Golang and Python) of LISP-like language to share the same ML pipeline over many systems",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Go"
+    },
+    "minlog": {
+      "desc": "Minimalist golang logger",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Go"
+    },
+    "pixiclock": {
+      "desc": "[googlecode] Small desktop widget",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Python"
+    },
+    "playground-graphql-go": {
+      "desc": "[meeting-notes] Play with GraphQL and GoLang",
+      "stars": 5,
+      "forks": 0,
+      "lang": "Go"
+    },
+    "playwindow": {
+      "desc": "Easy-to-use graphics library for very simple programming graphics in synchronous manner",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Python"
+    },
+    "pprofiler": {
+      "desc": "Pure Python profiler",
+      "stars": 3,
+      "forks": 0,
+      "lang": "Python"
+    },
+    "scato": {
+      "desc": "[googlecode] Turtle graphics programming language with GUI, guides and examples",
+      "stars": 1,
+      "forks": 0,
+      "lang": "Python"
+    },
+    "ska": {
+      "desc": "[googlecode] Cryptography library without restrictions to combine block ciphers and modes of operation",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Python"
+    },
+    "telegram-bot-for-system-monitoring": {
+      "desc": "Telegram bot for system monitoring and administration",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Python"
+    },
+    "unote": {
+      "desc": "Simple standalone GUI notification utility with simple network API",
+      "stars": 0,
+      "forks": 1,
+      "lang": "Tcl"
+    },
+    "warehouse": {
+      "desc": "Homeless things",
+      "stars": 0,
+      "forks": 0,
+      "lang": "Vim script"
+    },
+    "xterm256-color-picker": {
+      "desc": "Online color picker for terminal 256 color palette. Examples for shell prompt, vim, term/xterm",
+      "stars": 6,
+      "forks": 0,
+      "lang": "HTML"
+    },
+    "zoclock": {
+      "desc": "[googlecode] Small binary clock desktop widget",
+      "stars": 1,
+      "forks": 0,
+      "lang": "C++"
+    }
+  },
+  "cov": {
+    "minlog": {
+      "branch": "master",
+      "coverage": 100
+    },
+    "jsonpainter": {
+      "branch": "master",
+      "coverage": 100
+    },
+    "milisp": {
+      "branch": "master",
+      "coverage": 100
+    },
+    "pprofiler": {
+      "branch": "master",
+      "coverage": 100
+    }
+  },
+  "data": {
+    "sections": [
+      {
+        "title": "Actual",
+        "desc": "I am an active user among of other users of this stuff",
+        "repos": [
+          "cnbot",
+          "milisp",
+          "minlog",
+          "jsonpainter",
+          "pprofiler",
+          "unote"
+        ]
+      },
+      {
+        "title": "Online",
+        "desc": "You can try it right now online",
+        "repos": [
+          "conways-game-of-life",
+          "fast-online-mandelbrot-set-explorer",
+          "xterm256-color-picker"
+        ]
+      },
+      {
+        "title": "Simple chrome extensions",
+        "desc": "Google Chrome extensions",
+        "repos": [
+          "chrome-extension-bookmarks-on-new-tab",
+          "chrome-extension-radio-paradise",
+          "chrome-extension-timestamp-to-readable",
+          "chrome-extension-url-to-qrcode"
+        ]
+      },
+      {
+        "title": "Old but usefull",
+        "desc": "I haven't contributed to this projects for a long time. However, people are still using them in prod and contributing to some of them",
+        "repos": [
+          "dragon-on-wheels",
+          "fairseabattle",
+          "hexglass"
+        ]
+      },
+      {
+        "title": "Very old but I guess still runable",
+        "desc": "More then ten yeas old projects",
+        "repos": [
+          "scato",
+          "ska",
+          "zoclock",
+          "pixiclock"
+        ]
+      },
+      {
+        "title": "Not finished",
+        "desc": "You can borrow some ideas or code. However, it is really immature, beware",
+        "repos": [
+          "instant-bot",
+          "telegram-bot-for-system-monitoring",
+          "playwindow"
+        ]
+      },
+      {
+        "title": "Misc",
+        "desc": "Homeless stuff",
+        "repos": [
+          "meeting-notes",
+          "playground-graphql-go",
+          "michurin.github.io",
+          "warehouse"
+        ]
+      }
+    ],
+    "gh_page": {
+      "conways-game-of-life": "STD",
+      "fast-online-mandelbrot-set-explorer": "STD",
+      "xterm256-color-picker": "STD"
+    },
+    "webstore": {
+      "chrome-extension-bookmarks-on-new-tab": "https://chrome.google.com/webstore/detail/ultra-light-newtab-page-w/jmggnmiangppjceogakhdmafabilpmof",
+      "chrome-extension-timestamp-to-readable": "https://chrome.google.com/webstore/detail/unix-timestamp-to-readabl/cngfpffdiefnoblplbcdejppdpceaehm",
+      "chrome-extension-url-to-qrcode": "https://chrome.google.com/webstore/detail/url-to-qr-code/ocilemcdjpkpmopdbehigobfjaepcnmm"
+    },
+    "googlecode": {
+      "ska": "https://code.google.com/archive/p/ska/",
+      "zoclock": "https://code.google.com/archive/p/zoclock/",
+      "scato": "https://code.google.com/archive/p/scato/",
+      "pixiclock": "https://code.google.com/archive/p/pixiclock/",
+      "hexglass": "https://code.google.com/archive/p/hexglass/",
+      "fairseabattle": "https://code.google.com/archive/p/fairseabattle/"
+    }
+  }
+}
