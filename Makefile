@@ -5,7 +5,7 @@ all: check
 %.html: %.tmpl %.json
 	j2 $^ >$@ # jinja2 is also working
 index.json: index.jq api_repos.json api_codecov.json sections.json
-	jq -s -f $^ >$@
+	jq -Ss -f $^ >$@
 
 api_repos.json:
 	curl -s https://api.github.com/users/michurin/repos?per_page=100 | jq -S . >$@
