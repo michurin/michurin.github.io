@@ -18,6 +18,8 @@ jobs:
         run: |
           pwd
           ls -al
+          xsltproc --version
+          make --version
       -
         name: Checking
         run: make ci
