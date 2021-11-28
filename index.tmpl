@@ -10,7 +10,14 @@
 <link rel="shortcut icon" href="/favicon32x32.png" sizes="32x32" />
 <link rel="shortcut icon" href="/favicon64x64.png" sizes="64x64" />
 <link rel="shortcut icon" href="/favicon192x192.png" sizes="192x192" />
-<title>Alexey MICHURIN.github.io</title>
+<meta property="og:title" content="Alexey Michurin: backend developer (Go, Python, Node): my projects, about me" />
+<meta property="og:type" content="profile" />
+<meta property="og:url" content="https://michurin.github.io/" />
+<meta property="profile:first_name" content="Alexey" />
+<meta property="profile:last_name" content="Michurin" />
+<meta property="profile:gender" content="male" />
+<meta property="profile:username" content="michurin" />
+<title>michurin.github.io</title>
 <style>
 body {
   font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -22,9 +29,6 @@ body {
 }
 h1, h2, h3 {
   color: #333;
-}
-h1, h2 {
-  font-variant: small-caps;
 }
 a {
   text-decoration: none;
@@ -39,8 +43,23 @@ a:hover {
 .info a {
   color: #070;
 }
+h1 .info {
+  font-weight: normal;
+}
 .digit {
   color: #510;
+}
+.hidden {
+  display: none;
+}
+@media print {
+  div {
+    page-break-after: auto;
+    break-inside: avoid;
+  }
+  .hidden {
+    display: inline;
+  }
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -55,11 +74,12 @@ a:hover {
 </head>
 <body>
 
-  <h1>Alexey Michurin</h1>
+  <h1>Alexey Michurin <span class="info">| michurin.github.io</span></h1>
 
   <h2>Projects</h2>
 
   {%- for section in data.sections %}
+  <div>
   <h3>{{ section.title }}</h3>
   <p>{{ section.desc }}</p>
   <ul>
@@ -76,7 +96,10 @@ a:hover {
     {{- git[repo].desc -}}</li>
     {%- endfor %}
   </ul>
+  </div>
   {%- endfor %}
+
+  <div>
 
   <h2>About</h2>
 
@@ -111,24 +134,28 @@ a:hover {
     <li>Residence: Moscow, Russia</li>
     <li>First language: russian</li>
     <li>Misc:
-      <a target="_blank" href="http://projecteuler.net/profile/michurin.png">80 pointes (level 3)</a> on
-      <a target="_blank" href="https://projecteuler.net/">Project Euler</a>
+      <ul>
+        <li><a target="_blank" href="http://projecteuler.net/profile/michurin.png">80 pointes (level 3)</a> on
+            <a target="_blank" href="https://projecteuler.net/">Project Euler</a></li>
+        <li>Wikipedia contribution:
+            translation of <a target="_blank" href="https://en.wikipedia.org/wiki/Raft_%28computer_science%29">Raft (computer science)</a>:
+            <a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_Raft">Алгоритм Raft</a>
+            <span class="info">(russian)</span></li>
+        <li>Just for fun project: <a target="_blink" href="http://www.1000mines.com/">Infinite minesweeper puzzle game</a></li>
+      </ul>
     </li>
-    <li>Wikipedia contribution:
-      translation of <a target="_blank" href="https://en.wikipedia.org/wiki/Raft_%28computer_science%29">Raft (computer science)</a>:
-      <a target="_blank" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_Raft">Алгоритм Raft</a>
-      <span class="info">(russian)</span></li>
     <li>Outdated CV: <a target="_blank" href="https://github.com/michurin/warehouse/blob/master/cv/michurin.pdf">michurin.pdf</a></li>
     <li>Abandoned personal page: <a target="_blank" href="http://www.michurin.net/">www.michurin.net</a> <span class="info">(russian)</span></li>
-    <li>Just for fun project: <a target="_blink" href="http://www.1000mines.com/">Infinite minesweeper puzzle game</a></li>
   </ul>
 
   <h2>Contacts</h2>
 
   <ul>
     <li>E-mail: a.michurin [at] gmail.com</li>
-    <li>Phone: 2³×3×5²×1609×81901+one</li>
+    <li>Phone: 2³×3×5²×1609×81901+one<span class="hidden">, that's actually <nobr>+7 906 722 5401</nobr></span></li>
   </ul>
+
+  </div>
 
 </body>
 </html>
