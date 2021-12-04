@@ -1,0 +1,65 @@
+---
+name: autoupdate
+on:
+  schedule:
+    - cron: '0 4 * * 0' # Sunday 4:00 UTC
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install xsltproc
+        run: sudo apt-get install -y xsltproc
+      - name: Install python3 to setup j2cli
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Install j2cli
+        run: |
+          pip3 install --user --upgrade j2cli
+      - name: Looking around
+        run: |
+          echo '::group::pwd'
+          pwd
+          echo '::endgroup::'
+          echo '::group::ls'
+          ls -al
+          echo '::endgroup::'
+          echo '::group::xsltproc version'
+          xsltproc --version
+          echo '::endgroup::'
+          echo '::group::make version'
+          make --version
+          echo '::endgroup::'
+          echo '::group::jq version'
+          jq --version
+          echo '::endgroup::'
+          echo '::group::j2cli version'
+          j2 -v
+          echo '::endgroup::'
+          echo '::group::curl version'
+          curl --version
+          echo '::endgroup::'
+      - name: Fetch data
+        run: |
+          echo '::group::make vanish'
+          make vanish
+          echo '::endgroup::'
+          echo '::group::make'
+          make
+          echo '::endgroup::'
+      - name: Check for updates
+        id: check_for_updates
+        run: |
+          echo "changes_exist=$(git diff --quiet --exit-code index.html && echo 'false' || echo 'true')" >> $GITHUB_ENV # only subsequent steps will have access to this var
+      - name: Commit updates
+        if: ${{ env.changes_exist == 'true' }}
+        run: |
+          echo '::group::setup git'
+          git config user.name 'GitHub Actions Bot'
+          git config user.email '<>'
+          echo '::endgroup::'
+          echo '::group::commit'
+          git commit -am "Automatic update"
+          git push origin master
