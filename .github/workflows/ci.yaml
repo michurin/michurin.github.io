@@ -7,19 +7,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      -
-        name: Checkout
+      - name: Checkout
         uses: actions/checkout@v2
-      -
-        name: Install xsltproc
+      - name: Install xsltproc
         run: sudo apt-get install -y xsltproc
-      -
-        name: Looking around
+      - name: Looking around
         run: |
+          echo '::group::pwd'
           pwd
+          echo '::endgroup::'
+          echo '::group::ls'
           ls -al
+          echo '::endgroup::'
+          echo '::group::xsltproc version'
           xsltproc --version
+          echo '::endgroup::'
+          echo '::group::make version'
           make --version
-      -
-        name: Checking
+          echo '::endgroup::'
+      - name: Checking
         run: make ci
