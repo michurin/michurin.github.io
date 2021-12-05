@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+width="1200px"
+height="630px"
+viewBox="0 0 80 42"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:700");
+</style>
+<text fill="black" x="2" y="0" text-anchor="start" font-size="9" font-family="Open Sans">
+<tspan x="2" dy="16">Alexey Michurin</tspan>
+<tspan x="2" dy="8" font-size="5.3">https://michurin.github.io/</tspan>
+</text>
+</svg>
