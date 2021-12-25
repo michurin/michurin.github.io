@@ -5,9 +5,11 @@
   <xsl:text>*** Links:&#10;</xsl:text>
   <xsl:for-each select="//a">
     <xsl:value-of select="./@target"/>
-    <xsl:text>&#9;</xsl:text>
-    <xsl:value-of select="./@href"/>
     <xsl:text>&#9;&quot;</xsl:text>
+    <xsl:value-of select="./@name"/>
+    <xsl:text>&quot;&#9;&quot;</xsl:text>
+    <xsl:value-of select="./@href"/>
+    <xsl:text>&quot;&#9;&quot;</xsl:text>
     <xsl:value-of select="."/>
     <xsl:text>&quot;&#10;</xsl:text>
   </xsl:for-each>
