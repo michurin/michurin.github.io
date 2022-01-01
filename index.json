@@ -123,7 +123,7 @@
     },
     "chrome-extension-timestamp-to-readable": {
       "desc": "Chrome extension to make UNIX timestamps on Web pages readable",
-      "forks": 1,
+      "forks": 2,
       "lang": "JavaScript",
       "stars": 2
     },
@@ -263,7 +263,7 @@
       "desc": "Online color picker for terminal 256 color palette. Examples for shell prompt, vim, term/xterm",
       "forks": 0,
       "lang": "HTML",
-      "stars": 7
+      "stars": 6
     },
     "zoclock": {
       "desc": "[googlecode] Small binary clock desktop widget",
