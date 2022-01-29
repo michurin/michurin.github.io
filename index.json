@@ -243,7 +243,7 @@
     },
     "telegram-bot-for-system-monitoring": {
       "desc": "Telegram bot for system monitoring and administration",
-      "forks": 0,
+      "forks": 1,
       "lang": "Python",
       "stars": 0
     },

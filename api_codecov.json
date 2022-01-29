@@ -9,10 +9,47 @@
     "name": "Alexey Michurin",
     "service": "github",
     "service_id": "6719461",
-    "updatestamp": "2022-01-05T09:52:27.025473",
+    "updatestamp": "2022-01-23T01:08:08.799568",
     "username": "michurin"
   },
   "repos": [
+    {
+      "activated": true,
+      "branch": "master",
+      "cache": {
+        "commit": {
+          "author": null,
+          "ci_passed": null,
+          "commitid": "8dadd06ed555131454886c5dcbcab37ba070a6e6",
+          "message": null,
+          "timestamp": "2022-01-23T01:08:04.438787",
+          "totals": [
+            3,
+            151,
+            151,
+            0,
+            0,
+            "100",
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            null
+          ]
+        }
+      },
+      "coverage": 100,
+      "fork": null,
+      "language": "go",
+      "latest_commit": "2022-01-23 01:08:04.438787",
+      "name": "jsonpainter",
+      "ownerid": 2282535,
+      "private": false,
+      "repoid": "12806348",
+      "updatestamp": "2022-01-23 01:08:08.799568+00:00"
+    },
     {
       "activated": true,
       "branch": "master",
@@ -163,63 +200,6 @@
       "private": false,
       "repoid": "12419569",
       "updatestamp": "2021-10-16 16:12:05.060930+00:00"
-    },
-    {
-      "activated": true,
-      "branch": "master",
-      "cache": {
-        "commit": {
-          "author": {
-            "email": "a.michurin@gmail.com",
-            "name": "Alexey Michurin",
-            "service": "github",
-            "service_id": "6719461",
-            "username": "michurin"
-          },
-          "ci_passed": null,
-          "commitid": "d5076ecc9729a168ec7116ef4e5600acd67920c8",
-          "message": "CI: update golangci and golang",
-          "timestamp": "2021-09-26T05:50:39",
-          "totals": [
-            3,
-            151,
-            151,
-            0,
-            0,
-            "100",
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            [
-              0,
-              0,
-              0,
-              0,
-              0,
-              null,
-              0,
-              0,
-              0,
-              0,
-              null,
-              null,
-              0
-            ]
-          ]
-        }
-      },
-      "coverage": 100,
-      "fork": null,
-      "language": "go",
-      "latest_commit": "2021-09-26 05:50:39",
-      "name": "jsonpainter",
-      "ownerid": 2282535,
-      "private": false,
-      "repoid": "12806348",
-      "updatestamp": "2021-10-16 16:12:05.027833+00:00"
     }
   ]
 }
