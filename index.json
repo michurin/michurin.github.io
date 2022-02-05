@@ -143,7 +143,7 @@
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
       "forks": 1,
       "lang": "JavaScript",
-      "stars": 3
+      "stars": 4
     },
     "dragon-on-wheels": {
       "desc": "Simple pure Python SCGI/WSGI threaded server",
