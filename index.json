@@ -261,7 +261,7 @@
     },
     "xterm256-color-picker": {
       "desc": "Online color picker for terminal 256 color palette. Examples for shell prompt, vim, term/xterm",
-      "forks": 0,
+      "forks": 1,
       "lang": "HTML",
       "stars": 6
     },
