@@ -143,7 +143,7 @@
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
       "forks": 1,
       "lang": "JavaScript",
-      "stars": 4
+      "stars": 5
     },
     "dragon-on-wheels": {
       "desc": "Simple pure Python SCGI/WSGI threaded server",
@@ -161,13 +161,13 @@
       "desc": "Fast WebGL online Mandelbrot/Julia sets explorer",
       "forks": 0,
       "lang": "JavaScript",
-      "stars": 2
+      "stars": 3
     },
     "hexglass": {
       "desc": "Tetris like puzzle game on the hexagonal board",
       "forks": 2,
       "lang": "C++",
-      "stars": 1
+      "stars": 2
     },
     "instant-bot": {
       "desc": "Easily extensible Telegram bot",
@@ -191,7 +191,7 @@
       "desc": "github page",
       "forks": 0,
       "lang": "HTML",
-      "stars": 0
+      "stars": 1
     },
     "milisp": {
       "desc": "Multiple implementations (Golang and Python) of LISP-like language to share the same ML pipeline over many systems",
