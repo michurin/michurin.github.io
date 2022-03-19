@@ -111,9 +111,9 @@
   "git": {
     "chrome-extension-bookmarks-on-new-tab": {
       "desc": "Chrome extension makes new tab extremely lightweight page with bookmarks access",
-      "forks": 3,
+      "forks": 4,
       "lang": "JavaScript",
-      "stars": 7
+      "stars": 8
     },
     "chrome-extension-radio-paradise": {
       "desc": "[no-longer-supported] Chrome extension to listen to Radio Paradise online",
