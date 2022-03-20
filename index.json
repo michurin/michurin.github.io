@@ -36,6 +36,7 @@
         "desc": "I am an active user among of other users of this stuff",
         "repos": [
           "cnbot",
+          "netpunch",
           "milisp",
           "minlog",
           "jsonpainter",
@@ -201,6 +202,12 @@
     },
     "minlog": {
       "desc": "Minimalist golang logger",
+      "forks": 0,
+      "lang": "Go",
+      "stars": 0
+    },
+    "netpunch": {
+      "desc": "Netpunch is a tool to establishes network connections between nodes which are behind NATs and firewalls",
       "forks": 0,
       "lang": "Go",
       "stars": 0
