@@ -160,9 +160,9 @@
     },
     "fast-online-mandelbrot-set-explorer": {
       "desc": "Fast WebGL online Mandelbrot/Julia sets explorer",
-      "forks": 0,
+      "forks": 1,
       "lang": "JavaScript",
-      "stars": 3
+      "stars": 4
     },
     "hexglass": {
       "desc": "Tetris like puzzle game on the hexagonal board",
