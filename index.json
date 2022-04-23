@@ -124,7 +124,7 @@
     },
     "chrome-extension-timestamp-to-readable": {
       "desc": "Chrome extension to make UNIX timestamps on Web pages readable",
-      "forks": 2,
+      "forks": 3,
       "lang": "JavaScript",
       "stars": 2
     },
