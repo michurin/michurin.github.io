@@ -136,7 +136,7 @@
     },
     "cnbot": {
       "desc": "The tool to build your custom Telegram bot easier than ever",
-      "forks": 3,
+      "forks": 4,
       "lang": "Go",
       "stars": 24
     },
