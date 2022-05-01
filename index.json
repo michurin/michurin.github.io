@@ -12,6 +12,10 @@
       "branch": "master",
       "coverage": 100
     },
+    "netpunch": {
+      "branch": "master",
+      "coverage": 68
+    },
     "pprofiler": {
       "branch": "master",
       "coverage": 100
