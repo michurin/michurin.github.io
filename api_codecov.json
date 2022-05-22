@@ -9,7 +9,7 @@
     "name": "Alexey Michurin",
     "service": "github",
     "service_id": "6719461",
-    "updatestamp": "2022-05-01T05:29:56.603944",
+    "updatestamp": "2022-05-15T14:31:16.143878",
     "username": "michurin"
   },
   "repos": [
@@ -26,9 +26,9 @@
             "username": "michurin"
           },
           "ci_passed": null,
-          "commitid": "41521dd580d7cb0aa7cc34c20bd657e1ce2ad733",
-          "message": "Readme: minor",
-          "timestamp": "2022-05-01T05:29:03",
+          "commitid": "0047063736a0ffca94c22fc6c54b63e8080c7545",
+          "message": "Update golangci-lint: 1.46: disable buggy execinquery (v1.46.1) see comment",
+          "timestamp": "2022-05-15T14:30:29",
           "totals": [
             6,
             288,
@@ -63,12 +63,12 @@
       "coverage": 67.70833,
       "fork": null,
       "language": "go",
-      "latest_commit": "2022-05-01 05:29:03",
+      "latest_commit": "2022-05-15 14:30:29",
       "name": "netpunch",
       "ownerid": 2282535,
       "private": false,
       "repoid": "14452355",
-      "updatestamp": "2022-05-01 05:29:56.603944+00:00"
+      "updatestamp": "2022-05-15 14:31:16.143878+00:00"
     },
     {
       "activated": true,
@@ -105,7 +105,7 @@
       "ownerid": 2282535,
       "private": false,
       "repoid": "12806348",
-      "updatestamp": "2022-05-01 04:57:04.740449+00:00"
+      "updatestamp": "2022-05-14 08:54:16.494947+00:00"
     },
     {
       "activated": true,
@@ -142,7 +142,7 @@
       "ownerid": 2282535,
       "private": false,
       "repoid": "8523405",
-      "updatestamp": "2022-05-01 04:57:04.763140+00:00"
+      "updatestamp": "2022-05-14 08:54:16.513851+00:00"
     },
     {
       "activated": true,
@@ -199,7 +199,7 @@
       "ownerid": 2282535,
       "private": false,
       "repoid": "3399710",
-      "updatestamp": "2022-05-01 04:57:05.303979+00:00"
+      "updatestamp": "2022-05-14 08:54:16.547408+00:00"
     },
     {
       "activated": true,
@@ -256,7 +256,7 @@
       "ownerid": 2282535,
       "private": false,
       "repoid": "12419569",
-      "updatestamp": "2022-05-01 04:57:04.770312+00:00"
+      "updatestamp": "2022-05-14 08:54:16.520413+00:00"
     }
   ]
 }
