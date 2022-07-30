@@ -142,13 +142,13 @@
       "desc": "The tool to build your custom Telegram bot easier than ever",
       "forks": 5,
       "lang": "Go",
-      "stars": 24
+      "stars": 25
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
       "forks": 1,
       "lang": "JavaScript",
-      "stars": 5
+      "stars": 6
     },
     "dragon-on-wheels": {
       "desc": "Simple pure Python SCGI/WSGI threaded server",
