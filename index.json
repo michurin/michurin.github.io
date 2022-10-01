@@ -130,7 +130,7 @@
       "desc": "Chrome extension to make UNIX timestamps on Web pages readable",
       "forks": 3,
       "lang": "JavaScript",
-      "stars": 2
+      "stars": 3
     },
     "chrome-extension-url-to-qrcode": {
       "desc": "Google Chrome extension to generate QR-code with URL of current openned page.",
