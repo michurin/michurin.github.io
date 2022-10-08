@@ -154,7 +154,7 @@
       "desc": "Simple pure Python SCGI/WSGI threaded server",
       "forks": 0,
       "lang": "Python",
-      "stars": 4
+      "stars": 3
     },
     "fairseabattle": {
       "desc": "Sea Battle game, based on AI only",
