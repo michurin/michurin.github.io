@@ -142,7 +142,7 @@
       "desc": "The tool to build your custom Telegram bot easier than ever",
       "forks": 5,
       "lang": "Go",
-      "stars": 25
+      "stars": 26
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
@@ -160,7 +160,7 @@
       "desc": "Sea Battle game, based on AI only",
       "forks": 2,
       "lang": "C++",
-      "stars": 1
+      "stars": 2
     },
     "fast-online-mandelbrot-set-explorer": {
       "desc": "Fast WebGL online Mandelbrot/Julia sets explorer",
