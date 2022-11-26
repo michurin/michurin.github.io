@@ -164,7 +164,7 @@
     },
     "fast-online-mandelbrot-set-explorer": {
       "desc": "Fast WebGL online Mandelbrot/Julia sets explorer",
-      "forks": 1,
+      "forks": 0,
       "lang": "JavaScript",
       "stars": 5
     },
