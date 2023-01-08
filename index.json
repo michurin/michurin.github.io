@@ -196,7 +196,7 @@
       "desc": "github page",
       "forks": 0,
       "lang": "HTML",
-      "stars": 1
+      "stars": 2
     },
     "milisp": {
       "desc": "Multiple implementations (Golang and Python) of LISP-like language to share the same ML pipeline over many systems",
