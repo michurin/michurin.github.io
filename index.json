@@ -64,7 +64,8 @@
           "chrome-extension-bookmarks-on-new-tab",
           "chrome-extension-radio-paradise",
           "chrome-extension-timestamp-to-readable",
-          "chrome-extension-url-to-qrcode"
+          "chrome-extension-url-to-qrcode",
+          "chrome-extension-tab-gatherer"
         ],
         "title": "Simple chrome extensions"
       },
@@ -126,6 +127,12 @@
       "lang": "JavaScript",
       "stars": 3
     },
+    "chrome-extension-tab-gatherer": {
+      "desc": "Chrome extension to group tabs for you automatically",
+      "forks": 0,
+      "lang": "JavaScript",
+      "stars": 0
+    },
     "chrome-extension-timestamp-to-readable": {
       "desc": "Chrome extension to make UNIX timestamps on Web pages readable",
       "forks": 3,
@@ -133,7 +140,7 @@
       "stars": 3
     },
     "chrome-extension-url-to-qrcode": {
-      "desc": "Google Chrome extension to generate QR-code with URL of current openned page.",
+      "desc": "Google Chrome extension to generate QR-code with URL of current opened page",
       "forks": 0,
       "lang": "JavaScript",
       "stars": 1
