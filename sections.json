@@ -29,7 +29,8 @@
         "chrome-extension-bookmarks-on-new-tab",
         "chrome-extension-radio-paradise",
         "chrome-extension-timestamp-to-readable",
-        "chrome-extension-url-to-qrcode"
+        "chrome-extension-url-to-qrcode",
+        "chrome-extension-tab-gatherer"
       ]
     },
     {
