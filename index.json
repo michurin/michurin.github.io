@@ -209,7 +209,7 @@
       "desc": "Multiple implementations (Golang and Python) of LISP-like language to share the same ML pipeline over many systems",
       "forks": 0,
       "lang": "Go",
-      "stars": 1
+      "stars": 2
     },
     "minlog": {
       "desc": "Minimalist golang logger",
