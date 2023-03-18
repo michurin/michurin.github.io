@@ -10,14 +10,14 @@ index.json: index.jq api_repos.json api_codecov.json sections.json
 api_repos.json:
 	curl -s https://api.github.com/users/michurin/repos?per_page=100 | jq -S . >$@
 api_codecov.json:
-	echo "*** SKIP CODECOV***" # [04032023] codecov API flaking: 500 with random reasons and 200 but without context
-	curl -s https://codecov.io/api/gh/michurin | jq '{meta, error}' # [04032023] just to have diagnostics in logs
-	#curl -s https://codecov.io/api/gh/michurin | jq -S . >$@
+	# retries to avoid 500s
+	curl -s https://codecov.io/api/gh/michurin -v --retry 10 -o $@.tmp
+	jq -S . <$@.tmp >$@
 
 clean:
 	rm index.json
 vanish:
-	rm index.html index.json api_repos.json # api_codecov.json # [04032023] keep old codecov response
+	rm index.html index.json api_repos.json api_codecov.json
 check: check.xslt index.html
 	xsltproc $^
 long-check:
