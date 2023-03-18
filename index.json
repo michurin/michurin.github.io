@@ -110,6 +110,7 @@
     ],
     "webstore": {
       "chrome-extension-bookmarks-on-new-tab": "https://chrome.google.com/webstore/detail/ultra-light-newtab-page-w/jmggnmiangppjceogakhdmafabilpmof",
+      "chrome-extension-tab-gatherer": "https://chrome.google.com/webstore/detail/tab-gatherer/iikbgnplcjndhjlacgfdjilfkiabflbd",
       "chrome-extension-timestamp-to-readable": "https://chrome.google.com/webstore/detail/unix-timestamp-to-readabl/cngfpffdiefnoblplbcdejppdpceaehm",
       "chrome-extension-url-to-qrcode": "https://chrome.google.com/webstore/detail/url-to-qr-code/ocilemcdjpkpmopdbehigobfjaepcnmm"
     }
