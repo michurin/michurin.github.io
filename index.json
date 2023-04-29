@@ -174,13 +174,13 @@
       "desc": "Fast WebGL online Mandelbrot/Julia sets explorer",
       "forks": 0,
       "lang": "JavaScript",
-      "stars": 6
+      "stars": 7
     },
     "hexglass": {
       "desc": "Tetris like puzzle game on the hexagonal board",
       "forks": 2,
       "lang": "C++",
-      "stars": 2
+      "stars": 3
     },
     "instant-bot": {
       "desc": "Easily extensible Telegram bot",
@@ -204,7 +204,7 @@
       "desc": "github page",
       "forks": 0,
       "lang": "HTML",
-      "stars": 1
+      "stars": 2
     },
     "milisp": {
       "desc": "Multiple implementations (Golang and Python) of LISP-like language to share the same ML pipeline over many systems",
