@@ -132,7 +132,7 @@
       "desc": "Chrome extension to group tabs for you automatically",
       "forks": 0,
       "lang": "JavaScript",
-      "stars": 0
+      "stars": 1
     },
     "chrome-extension-timestamp-to-readable": {
       "desc": "Chrome extension to make UNIX timestamps on Web pages readable",
