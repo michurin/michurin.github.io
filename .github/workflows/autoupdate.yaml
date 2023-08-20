@@ -5,6 +5,7 @@ on:
   # the scheduled workflow; delay time is about 3 to 30 minutes
   schedule:
     - cron: '0 1 * * 0,6' # Sun,Sat 1:00 UTC
+  workflow_dispatch:
 jobs:
   update:
     runs-on: ubuntu-latest

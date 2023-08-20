@@ -11,8 +11,13 @@ api_repos.json:
 	curl -s https://api.github.com/users/michurin/repos?per_page=100 | jq -S . >$@
 api_codecov.json:
 	# retries to avoid 500s
-	curl -s https://codecov.io/api/gh/michurin -v --retry 10 -o $@.tmp
-	jq -S . <$@.tmp >$@
+	# in Aug 2023 all repos[].coverage turns to null; so next line
+	# gets useless
+	# curl -s https://codecov.io/api/gh/michurin -v --retry 10 -o $@.tmp
+	# jq -S . <$@.tmp >$@
+	#
+	# hackish script to extract code coverage from badges
+	cd codecov && ./list.sh && ./cov.sh && cp api_codecov.json ../api_codecov.json
 
 clean:
 	rm index.json

@@ -104,7 +104,7 @@ h1 .info {
       {{ git[repo].lang -}}
       {% if git[repo].stars != 0 %}, stars: <span class="digit">{{ git[repo].stars }}</span>{% endif -%}
       {% if git[repo].forks != 0 %}, forks: <span class="digit">{{ git[repo].forks }}</span>{% endif -%}
-      {% if repo in cov %}, <a target="_blank" href="https://app.codecov.io/gh/michurin/{{ repo }}"  title="codecov">{{ cov[repo].coverage }}%</a>{% endif -%}
+      {% if repo in cov %}, <a target="_blank" href="https://app.codecov.io/gh/michurin/{{ repo }}"  title="codecov">{{ cov[repo] }}</a>{% endif -%}
       {% if repo in data.gh_page %}, <a target="_blank" href="https://michurin.github.io/{{ repo }}/" title="online">page</a>{% endif -%}
       {% if repo in data.webstore %}, <a target="_blank" href="{{ data.webstore[repo] }}" title="chrome webstore">webstore</a>{% endif -%}
       {% if repo in data.googlecode %}, <a target="_blank" href="{{ data.googlecode[repo] }}" title="archive">googlecode</a>{% endif -%}
