@@ -1,25 +1,10 @@
 {
   "cov": {
-    "jsonpainter": {
-      "branch": "master",
-      "coverage": 100
-    },
-    "milisp": {
-      "branch": "master",
-      "coverage": 100
-    },
-    "minlog": {
-      "branch": "master",
-      "coverage": 100
-    },
-    "netpunch": {
-      "branch": "master",
-      "coverage": 66
-    },
-    "pprofiler": {
-      "branch": "master",
-      "coverage": 100
-    }
+    "jsonpainter": "100%",
+    "milisp": "100%",
+    "minlog": "100%",
+    "netpunch": "66%",
+    "pprofiler": "100%"
   },
   "data": {
     "gh_page": {
@@ -174,7 +159,7 @@
       "desc": "Fast WebGL online Mandelbrot/Julia sets explorer",
       "forks": 0,
       "lang": "JavaScript",
-      "stars": 6
+      "stars": 5
     },
     "hexglass": {
       "desc": "Tetris like puzzle game on the hexagonal board",
