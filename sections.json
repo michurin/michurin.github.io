@@ -6,6 +6,7 @@
       "repos": [
         "cnbot",
         "netpunch",
+        "systemd-env-file",
         "milisp",
         "minlog",
         "jsonpainter",
