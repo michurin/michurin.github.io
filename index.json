@@ -4,7 +4,8 @@
     "milisp": "100%",
     "minlog": "100%",
     "netpunch": "66%",
-    "pprofiler": "100%"
+    "pprofiler": "100%",
+    "systemd-env-file": "100%"
   },
   "data": {
     "gh_page": {
@@ -26,6 +27,7 @@
         "repos": [
           "cnbot",
           "netpunch",
+          "systemd-env-file",
           "milisp",
           "minlog",
           "jsonpainter",
@@ -243,6 +245,12 @@
       "desc": "[googlecode] Cryptography library without restrictions to combine block ciphers and modes of operation",
       "forks": 0,
       "lang": "Python",
+      "stars": 0
+    },
+    "systemd-env-file": {
+      "desc": "Go package to read files in systemd EnvironmentFile format, and CLI utility to source environment variables from EnvironmentFile-formatted file",
+      "forks": 0,
+      "lang": "Go",
       "stars": 0
     },
     "telegram-bot-for-system-monitoring": {
