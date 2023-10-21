@@ -257,7 +257,7 @@
       "desc": "Telegram bot for system monitoring and administration",
       "forks": 1,
       "lang": "Python",
-      "stars": 0
+      "stars": 1
     },
     "unote": {
       "desc": "Simple standalone GUI notification utility with simple network API",
