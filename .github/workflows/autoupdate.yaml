@@ -14,14 +14,13 @@ jobs:
         uses: actions/checkout@v4
       - name: Install xsltproc
         run: sudo apt-get install -y xsltproc
-      - name: Install python3 to setup j2cli
+      - name: Install python3 to setup jinja2-cli
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - name: Install j2cli
+      - name: Install jinja2-cli
         run: |
-          pip3 install --user --upgrade setuptools # avoiding "ModuleNotFoundError: No module named 'pkg_resources'" in j2cli/__init__.py
-          pip3 install --user --upgrade j2cli
+          pip3 install --user --upgrade jinja2-cli
       - name: Looking around
         run: |
           echo '::group::pwd'
@@ -42,8 +41,8 @@ jobs:
           echo '::group::jq version'
           jq --version
           echo '::endgroup::'
-          echo '::group::j2cli version'
-          j2 -v
+          echo '::group::jinja2-cli version'
+          jinja2 --version
           echo '::endgroup::'
           echo '::group::curl version'
           curl --version

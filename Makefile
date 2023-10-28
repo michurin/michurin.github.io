@@ -3,7 +3,7 @@
 all: check
 
 %.html: %.tmpl %.json
-	j2 $^ >$@ # jinja2 is also working
+	jinja2 $^ >$@
 index.json: index.jq api_repos.json api_codecov.json sections.json
 	jq -Ss -f $^ >$@
 
