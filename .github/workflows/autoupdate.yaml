@@ -11,20 +11,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Install xsltproc
         run: sudo apt-get install -y xsltproc
       - name: Install python3 to setup j2cli
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.x
       - name: Install j2cli
         run: |
+          pip3 install --user --upgrade setuptools # avoiding "ModuleNotFoundError: No module named 'pkg_resources'" in j2cli/__init__.py
           pip3 install --user --upgrade j2cli
       - name: Looking around
         run: |
           echo '::group::pwd'
           pwd
+          echo '::endgroup::'
+          echo '::group::env'
+          env
           echo '::endgroup::'
           echo '::group::ls'
           ls -al
