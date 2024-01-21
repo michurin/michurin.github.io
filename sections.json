@@ -6,11 +6,10 @@
       "repos": [
         "cnbot",
         "netpunch",
+        "human-readable-json-logging",
         "systemd-env-file",
         "milisp",
         "minlog",
-        "jsonpainter",
-        "pprofiler",
         "unote"
       ]
     },
@@ -40,7 +39,8 @@
       "repos": [
         "dragon-on-wheels",
         "fairseabattle",
-        "hexglass"
+        "hexglass",
+        "pprofiler"
        ]
     },
     {
@@ -59,7 +59,8 @@
       "repos": [
         "instant-bot",
         "telegram-bot-for-system-monitoring",
-        "playwindow"
+        "playwindow",
+        "jsonpainter"
       ]
     },
     {
