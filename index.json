@@ -1,12 +1,12 @@
 {
   "cov": {
-    "human-readable-json-logging": "",
-    "jsonpainter": "",
-    "milisp": "",
-    "minlog": "",
-    "netpunch": "",
-    "pprofiler": "",
-    "systemd-env-file": ""
+    "human-readable-json-logging": "83%",
+    "jsonpainter": "100%",
+    "milisp": "100%",
+    "minlog": "100%",
+    "netpunch": "66%",
+    "pprofiler": "100%",
+    "systemd-env-file": "100%"
   },
   "data": {
     "gh_page": {
@@ -28,11 +28,10 @@
         "repos": [
           "cnbot",
           "netpunch",
+          "human-readable-json-logging",
           "systemd-env-file",
           "milisp",
           "minlog",
-          "jsonpainter",
-          "pprofiler",
           "unote"
         ],
         "title": "Actual"
@@ -62,7 +61,8 @@
         "repos": [
           "dragon-on-wheels",
           "fairseabattle",
-          "hexglass"
+          "hexglass",
+          "pprofiler"
         ],
         "title": "Old but usefull"
       },
@@ -81,7 +81,8 @@
         "repos": [
           "instant-bot",
           "telegram-bot-for-system-monitoring",
-          "playwindow"
+          "playwindow",
+          "jsonpainter"
         ],
         "title": "Not finished"
       },
