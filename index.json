@@ -214,7 +214,7 @@
       "stars": 0
     },
     "netpunch": {
-      "desc": "Netpunch is a tool to establishes network connections between nodes which are behind NATs and firewalls",
+      "desc": "Netpunch is a tool to establish network connections between nodes which are behind NATs and firewalls",
       "forks": 0,
       "lang": "Go",
       "stars": 5
