@@ -127,7 +127,7 @@
       "desc": "Chrome extension to make UNIX timestamps on Web pages readable",
       "forks": 3,
       "lang": "JavaScript",
-      "stars": 3
+      "stars": 4
     },
     "chrome-extension-url-to-qrcode": {
       "desc": "Google Chrome extension to generate QR-code with URL of current opened page",
@@ -145,7 +145,7 @@
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
       "forks": 1,
       "lang": "JavaScript",
-      "stars": 8
+      "stars": 9
     },
     "dragon-on-wheels": {
       "desc": "Simple pure Python SCGI/WSGI threaded server",
