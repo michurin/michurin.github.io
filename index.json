@@ -1,13 +1,5 @@
 {
-  "cov": {
-    "human-readable-json-logging": "92%",
-    "jsonpainter": "100%",
-    "milisp": "100%",
-    "minlog": "100%",
-    "netpunch": "66%",
-    "pprofiler": "100%",
-    "systemd-env-file": "100%"
-  },
+  "cov": {},
   "data": {
     "gh_page": {
       "conways-game-of-life": "STD",
@@ -139,7 +131,7 @@
       "desc": "The tool to build your custom Telegram bot easier than ever",
       "forks": 5,
       "lang": "Go",
-      "stars": 28
+      "stars": 29
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
