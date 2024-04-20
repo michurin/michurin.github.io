@@ -1,1 +1,9 @@
-{}
+{
+  "human-readable-json-logging": "92%",
+  "jsonpainter": "100%",
+  "milisp": "100%",
+  "minlog": "100%",
+  "netpunch": "66%",
+  "pprofiler": "100%",
+  "systemd-env-file": "100%"
+}

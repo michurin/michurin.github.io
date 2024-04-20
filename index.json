@@ -1,5 +1,13 @@
 {
-  "cov": {},
+  "cov": {
+    "human-readable-json-logging": "92%",
+    "jsonpainter": "100%",
+    "milisp": "100%",
+    "minlog": "100%",
+    "netpunch": "66%",
+    "pprofiler": "100%",
+    "systemd-env-file": "100%"
+  },
   "data": {
     "gh_page": {
       "conways-game-of-life": "STD",
@@ -92,8 +100,7 @@
     "webstore": {
       "chrome-extension-bookmarks-on-new-tab": "https://chrome.google.com/webstore/detail/ultra-light-newtab-page-w/jmggnmiangppjceogakhdmafabilpmof",
       "chrome-extension-tab-gatherer": "https://chrome.google.com/webstore/detail/tab-gatherer/iikbgnplcjndhjlacgfdjilfkiabflbd",
-      "chrome-extension-timestamp-to-readable": "https://chrome.google.com/webstore/detail/unix-timestamp-to-readabl/cngfpffdiefnoblplbcdejppdpceaehm",
-      "chrome-extension-url-to-qrcode": "https://chrome.google.com/webstore/detail/url-to-qr-code/ocilemcdjpkpmopdbehigobfjaepcnmm"
+      "chrome-extension-timestamp-to-readable": "https://chrome.google.com/webstore/detail/unix-timestamp-to-readabl/cngfpffdiefnoblplbcdejppdpceaehm"
     }
   },
   "git": {
@@ -122,7 +129,7 @@
       "stars": 4
     },
     "chrome-extension-url-to-qrcode": {
-      "desc": "Google Chrome extension to generate QR-code with URL of current opened page",
+      "desc": "[no-longer-supported] Google Chrome extension to generate QR-code with URL of current opened page",
       "forks": 0,
       "lang": "JavaScript",
       "stars": 1
