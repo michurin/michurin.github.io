@@ -129,9 +129,9 @@
     },
     "cnbot": {
       "desc": "The tool to build your custom Telegram bot easier than ever",
-      "forks": 5,
+      "forks": 6,
       "lang": "Go",
-      "stars": 29
+      "stars": 30
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
@@ -167,7 +167,7 @@
       "desc": "The tool to pretty print JSON log stream right from running process in human readable format",
       "forks": 0,
       "lang": "Go",
-      "stars": 2
+      "stars": 3
     },
     "instant-bot": {
       "desc": "Easily extensible Telegram bot",
