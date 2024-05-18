@@ -174,7 +174,7 @@
       "desc": "The tool to pretty print JSON log stream right from running process in human readable format",
       "forks": 0,
       "lang": "Go",
-      "stars": 5
+      "stars": 6
     },
     "instant-bot": {
       "desc": "Easily extensible Telegram bot",
