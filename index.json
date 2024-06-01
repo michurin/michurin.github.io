@@ -172,7 +172,7 @@
     },
     "human-readable-json-logging": {
       "desc": "The tool to pretty print JSON log stream right from running process in human readable format",
-      "forks": 0,
+      "forks": 1,
       "lang": "Go",
       "stars": 6
     },
