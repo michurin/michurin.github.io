@@ -216,7 +216,7 @@
       "desc": "Netpunch is a tool to establish network connections between nodes which are behind NATs and firewalls",
       "forks": 0,
       "lang": "Go",
-      "stars": 5
+      "stars": 6
     },
     "pixiclock": {
       "desc": "[googlecode] Small desktop widget",
