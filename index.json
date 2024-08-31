@@ -174,7 +174,7 @@
       "desc": "The tool to pretty print JSON log stream right from running process in human readable format",
       "forks": 1,
       "lang": "Go",
-      "stars": 6
+      "stars": 7
     },
     "instant-bot": {
       "desc": "Easily extensible Telegram bot",
@@ -282,7 +282,7 @@
       "desc": "Online color picker for terminal 256 color palette. Examples for shell prompt, vim, term/xterm",
       "forks": 2,
       "lang": "HTML",
-      "stars": 11
+      "stars": 12
     },
     "zoclock": {
       "desc": "[googlecode] Small binary clock desktop widget",
