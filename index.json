@@ -1,6 +1,5 @@
 {
   "cov": {
-    "cnbot": "76%",
     "human-readable-json-logging": "95%",
     "jsonpainter": "100%",
     "milisp": "100%",
@@ -276,7 +275,7 @@
     "warehouse": {
       "desc": "Homeless things",
       "forks": 0,
-      "lang": "Go",
+      "lang": "Vim Script",
       "stars": 1
     },
     "xterm256-color-picker": {
