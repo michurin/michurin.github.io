@@ -20,6 +20,7 @@ done
 echo "We are falling back :-("
 # fallback if codecov api is unreachable again :-(
 cat <<LIST >list.tmp
+cnbot
 human-readable-json-logging
 jsonpainter
 milisp
