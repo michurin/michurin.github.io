@@ -127,7 +127,7 @@
       "desc": "Chrome extension to make UNIX timestamps on Web pages readable",
       "forks": 3,
       "lang": "JavaScript",
-      "stars": 4
+      "stars": 3
     },
     "chrome-extension-url-to-qrcode": {
       "desc": "[no-longer-supported] Google Chrome extension to generate QR-code with URL of current opened page",
@@ -139,7 +139,7 @@
       "desc": "The tool to build your custom Telegram bot easier than ever",
       "forks": 6,
       "lang": "Go",
-      "stars": 31
+      "stars": 32
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
@@ -281,9 +281,9 @@
     },
     "xterm256-color-picker": {
       "desc": "Online color picker for terminal 256 color palette. Examples for shell prompt, vim, term/xterm",
-      "forks": 2,
+      "forks": 3,
       "lang": "HTML",
-      "stars": 12
+      "stars": 13
     },
     "zoclock": {
       "desc": "[googlecode] Small binary clock desktop widget",
