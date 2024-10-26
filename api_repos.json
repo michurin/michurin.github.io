@@ -80,7 +80,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/agent-sample-app/pulls{/number}",
@@ -186,7 +187,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/chrome-extension-bookmarks-on-new-tab/pulls{/number}",
@@ -299,7 +301,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/chrome-extension-radio-paradise/pulls{/number}",
@@ -413,7 +416,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/chrome-extension-tab-gatherer/pulls{/number}",
@@ -528,7 +532,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/chrome-extension-timestamp-to-readable/pulls{/number}",
@@ -638,7 +643,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/chrome-extension-url-to-qrcode/pulls{/number}",
@@ -748,7 +754,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/client_golang/pulls{/number}",
@@ -854,7 +861,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/cnbot/pulls{/number}",
@@ -968,7 +976,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/conways-game-of-life/pulls{/number}",
@@ -1072,7 +1081,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/digitalocean-sample-golang-fork/pulls{/number}",
@@ -1178,7 +1188,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/dragon-on-wheels/pulls{/number}",
@@ -1287,7 +1298,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/fairseabattle/pulls{/number}",
@@ -1399,7 +1411,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/fast-online-mandelbrot-set-explorer/pulls{/number}",
@@ -1512,7 +1525,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/go-openai/pulls{/number}",
@@ -1618,7 +1632,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/handler/pulls{/number}",
@@ -1724,7 +1739,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/hexglass/pulls{/number}",
@@ -1836,7 +1852,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/human-readable-json-logging/pulls{/number}",
@@ -1844,7 +1861,7 @@
     "releases_url": "https://api.github.com/repos/michurin/human-readable-json-logging/releases{/id}",
     "size": 78,
     "ssh_url": "git@github.com:michurin/human-readable-json-logging.git",
-    "stargazers_count": 8,
+    "stargazers_count": 7,
     "stargazers_url": "https://api.github.com/repos/michurin/human-readable-json-logging/stargazers",
     "statuses_url": "https://api.github.com/repos/michurin/human-readable-json-logging/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/michurin/human-readable-json-logging/subscribers",
@@ -1863,11 +1880,11 @@
       "tooling"
     ],
     "trees_url": "https://api.github.com/repos/michurin/human-readable-json-logging/git/trees{/sha}",
-    "updated_at": "2024-09-10T18:54:13Z",
+    "updated_at": "2024-10-25T09:10:02Z",
     "url": "https://api.github.com/repos/michurin/human-readable-json-logging",
     "visibility": "public",
-    "watchers": 8,
-    "watchers_count": 8,
+    "watchers": 7,
+    "watchers_count": 7,
     "web_commit_signoff_required": false
   },
   {
@@ -1945,7 +1962,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/instant-bot/pulls{/number}",
@@ -2051,7 +2069,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/jsonpainter/pulls{/number}",
@@ -2163,7 +2182,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/kit/pulls{/number}",
@@ -2263,7 +2283,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/meeting-notes/pulls{/number}",
@@ -2369,13 +2390,14 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/michurin.github.io/pulls{/number}",
-    "pushed_at": "2024-10-05T02:08:19Z",
+    "pushed_at": "2024-10-12T02:06:55Z",
     "releases_url": "https://api.github.com/repos/michurin/michurin.github.io/releases{/id}",
-    "size": 663,
+    "size": 695,
     "ssh_url": "git@github.com:michurin/michurin.github.io.git",
     "stargazers_count": 2,
     "stargazers_url": "https://api.github.com/repos/michurin/michurin.github.io/stargazers",
@@ -2391,7 +2413,7 @@
       "github-actions"
     ],
     "trees_url": "https://api.github.com/repos/michurin/michurin.github.io/git/trees{/sha}",
-    "updated_at": "2024-10-05T02:08:23Z",
+    "updated_at": "2024-10-12T02:06:58Z",
     "url": "https://api.github.com/repos/michurin/michurin.github.io",
     "visibility": "public",
     "watchers": 2,
@@ -2479,7 +2501,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/milisp/pulls{/number}",
@@ -2592,7 +2615,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/minlog/pulls{/number}",
@@ -2705,7 +2729,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/netpunch/pulls{/number}",
@@ -2818,7 +2843,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/nvim-treesitter-refactor/pulls{/number}",
@@ -2918,7 +2944,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/openssl.vim/pulls{/number}",
@@ -3018,7 +3045,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/pixiclock/pulls{/number}",
@@ -3118,7 +3146,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/playground-graphql-go/pulls{/number}",
@@ -3224,7 +3253,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/playwindow/pulls{/number}",
@@ -3330,7 +3360,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/pprofiler/pulls{/number}",
@@ -3434,7 +3465,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/protocol-writer/pulls{/number}",
@@ -3540,7 +3572,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/puma/pulls{/number}",
@@ -3640,7 +3673,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/rudn.github.io/pulls{/number}",
@@ -3746,7 +3780,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/scato/pulls{/number}",
@@ -3852,7 +3887,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/ska/pulls{/number}",
@@ -3958,7 +3994,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/systemd-env-file/pulls{/number}",
@@ -4067,7 +4104,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/telegram-bot-for-system-monitoring/pulls{/number}",
@@ -4167,7 +4205,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/the-evolution-of-a-go-programmer/pulls{/number}",
@@ -4273,7 +4312,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/tutorials/pulls{/number}",
@@ -4373,7 +4413,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/unote/pulls{/number}",
@@ -4479,13 +4520,14 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/warehouse/pulls{/number}",
-    "pushed_at": "2024-10-06T08:20:20Z",
+    "pushed_at": "2024-10-20T07:45:39Z",
     "releases_url": "https://api.github.com/repos/michurin/warehouse/releases{/id}",
-    "size": 6244,
+    "size": 6165,
     "ssh_url": "git@github.com:michurin/warehouse.git",
     "stargazers_count": 1,
     "stargazers_url": "https://api.github.com/repos/michurin/warehouse/stargazers",
@@ -4497,7 +4539,7 @@
     "teams_url": "https://api.github.com/repos/michurin/warehouse/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/michurin/warehouse/git/trees{/sha}",
-    "updated_at": "2024-10-06T08:20:24Z",
+    "updated_at": "2024-10-20T07:45:42Z",
     "url": "https://api.github.com/repos/michurin/warehouse",
     "visibility": "public",
     "watchers": 1,
@@ -4585,7 +4627,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/xterm256-color-picker/pulls{/number}",
@@ -4698,7 +4741,8 @@
       "starred_url": "https://api.github.com/users/michurin/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/michurin/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/michurin"
+      "url": "https://api.github.com/users/michurin",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/michurin/zoclock/pulls{/number}",
