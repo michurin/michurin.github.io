@@ -259,7 +259,7 @@
       "desc": "Go package to read files in systemd EnvironmentFile format, and CLI utility to source environment variables from EnvironmentFile-formatted file",
       "forks": 0,
       "lang": "Go",
-      "stars": 0
+      "stars": 1
     },
     "telegram-bot-for-system-monitoring": {
       "desc": "Telegram bot for system monitoring and administration",
