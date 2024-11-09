@@ -1,6 +1,6 @@
 {
   "cov": {
-    "cnbot": "74%",
+    "cnbot": "70%",
     "human-readable-json-logging": "95%",
     "jsonpainter": "100%",
     "milisp": "100%",
