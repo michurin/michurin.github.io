@@ -5,7 +5,7 @@
     "jsonpainter": "100%",
     "milisp": "100%",
     "minlog": "100%",
-    "netpunch": "69%",
+    "netpunch": "66%",
     "pprofiler": "100%",
     "systemd-env-file": "100%"
   },
@@ -175,7 +175,7 @@
       "desc": "The tool to pretty print JSON log stream right from running process in human readable format",
       "forks": 1,
       "lang": "Go",
-      "stars": 7
+      "stars": 20
     },
     "instant-bot": {
       "desc": "Easily extensible Telegram bot",
