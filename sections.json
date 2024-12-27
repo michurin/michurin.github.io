@@ -8,6 +8,7 @@
         "netpunch",
         "human-readable-json-logging",
         "systemd-env-file",
+        "ngramindex",
         "milisp",
         "minlog",
         "unote"
