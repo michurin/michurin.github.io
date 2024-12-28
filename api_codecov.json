@@ -5,6 +5,7 @@
   "milisp": "100%",
   "minlog": "100%",
   "netpunch": "66%",
+  "ngramindex": "100%",
   "pprofiler": "100%",
   "systemd-env-file": "100%"
 }

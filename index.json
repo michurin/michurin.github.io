@@ -6,6 +6,7 @@
     "milisp": "100%",
     "minlog": "100%",
     "netpunch": "66%",
+    "ngramindex": "100%",
     "pprofiler": "100%",
     "systemd-env-file": "100%"
   },
@@ -31,6 +32,7 @@
           "netpunch",
           "human-readable-json-logging",
           "systemd-env-file",
+          "ngramindex",
           "milisp",
           "minlog",
           "unote"
@@ -218,6 +220,12 @@
       "forks": 0,
       "lang": "Go",
       "stars": 6
+    },
+    "ngramindex": {
+      "desc": "Golang ngram index implementation",
+      "forks": 0,
+      "lang": "Go",
+      "stars": 0
     },
     "pixiclock": {
       "desc": "[googlecode] Small desktop widget",
