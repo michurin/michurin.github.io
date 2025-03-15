@@ -141,7 +141,7 @@
       "desc": "The tool to build your custom Telegram bot easier than ever",
       "forks": 6,
       "lang": "Go",
-      "stars": 32
+      "stars": 31
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
@@ -225,7 +225,7 @@
       "desc": "Golang ngram index implementation",
       "forks": 0,
       "lang": "Go",
-      "stars": 0
+      "stars": 1
     },
     "pixiclock": {
       "desc": "[googlecode] Small desktop widget",
@@ -267,7 +267,7 @@
       "desc": "Go package to read files in systemd EnvironmentFile format, and CLI utility to source environment variables from EnvironmentFile-formatted file",
       "forks": 0,
       "lang": "Go",
-      "stars": 1
+      "stars": 2
     },
     "telegram-bot-for-system-monitoring": {
       "desc": "Telegram bot for system monitoring and administration",
