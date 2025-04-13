@@ -31,4 +31,5 @@ netpunch
 ngramindex
 pprofiler
 systemd-env-file
+tc
 LIST

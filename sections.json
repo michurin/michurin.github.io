@@ -9,6 +9,7 @@
         "human-readable-json-logging",
         "systemd-env-file",
         "ngramindex",
+        "tc",
         "milisp",
         "minlog",
         "unote"
