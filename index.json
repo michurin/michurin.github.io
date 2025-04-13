@@ -8,7 +8,8 @@
     "netpunch": "66%",
     "ngramindex": "100%",
     "pprofiler": "100%",
-    "systemd-env-file": "100%"
+    "systemd-env-file": "100%",
+    "tc": "100%"
   },
   "data": {
     "gh_page": {
@@ -33,6 +34,7 @@
           "human-readable-json-logging",
           "systemd-env-file",
           "ngramindex",
+          "tc",
           "milisp",
           "minlog",
           "unote"
@@ -268,6 +270,12 @@
       "forks": 0,
       "lang": "Go",
       "stars": 2
+    },
+    "tc": {
+      "desc": "Golang very simple type converting tools",
+      "forks": 0,
+      "lang": "Go",
+      "stars": 0
     },
     "telegram-bot-for-system-monitoring": {
       "desc": "Telegram bot for system monitoring and administration",
