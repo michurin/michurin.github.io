@@ -1,15 +1,15 @@
 {
   "cov": {
-    "cnbot": "70%",
-    "human-readable-json-logging": "94%",
-    "jsonpainter": "100%",
-    "milisp": "100%",
-    "minlog": "100%",
-    "netpunch": "66%",
-    "ngramindex": "100%",
-    "pprofiler": "100%",
-    "systemd-env-file": "100%",
-    "tc": "100%"
+    "cnbot": "",
+    "human-readable-json-logging": "",
+    "jsonpainter": "",
+    "milisp": "",
+    "minlog": "",
+    "netpunch": "",
+    "ngramindex": "",
+    "pprofiler": "",
+    "systemd-env-file": "",
+    "tc": ""
   },
   "data": {
     "gh_page": {
