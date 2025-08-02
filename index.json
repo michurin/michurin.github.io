@@ -143,7 +143,7 @@
       "desc": "The tool to build your custom Telegram bot easier than ever",
       "forks": 6,
       "lang": "Go",
-      "stars": 32
+      "stars": 33
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
