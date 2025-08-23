@@ -269,7 +269,7 @@
       "desc": "Go package to read files in systemd EnvironmentFile format, and CLI utility to source environment variables from EnvironmentFile-formatted file",
       "forks": 0,
       "lang": "Go",
-      "stars": 2
+      "stars": 3
     },
     "tc": {
       "desc": "Golang very simple type converting tools",
