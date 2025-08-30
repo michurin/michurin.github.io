@@ -143,7 +143,7 @@
       "desc": "The tool to build your custom Telegram bot easier than ever",
       "forks": 6,
       "lang": "Go",
-      "stars": 33
+      "stars": 34
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
@@ -221,7 +221,7 @@
       "desc": "Netpunch is a tool to establish network connections between nodes which are behind NATs and firewalls",
       "forks": 0,
       "lang": "Go",
-      "stars": 6
+      "stars": 7
     },
     "ngramindex": {
       "desc": "Golang ngram index implementation",
