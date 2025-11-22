@@ -5,7 +5,7 @@
     "jsonpainter": "100%",
     "milisp": "100%",
     "minlog": "100%",
-    "netpunch": "67%",
+    "netpunch": "69%",
     "ngramindex": "100%",
     "pprofiler": "100%",
     "systemd-env-file": "100%",
@@ -167,7 +167,7 @@
       "desc": "Fast WebGL online Mandelbrot/Julia sets explorer",
       "forks": 0,
       "lang": "JavaScript",
-      "stars": 8
+      "stars": 7
     },
     "hexglass": {
       "desc": "Tetris like puzzle game on the hexagonal board",
