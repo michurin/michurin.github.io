@@ -147,7 +147,7 @@
     },
     "conways-game-of-life": {
       "desc": "Fast Conway's Game of Life in JavaScript and canvas",
-      "forks": 1,
+      "forks": 2,
       "lang": "JavaScript",
       "stars": 10
     },
