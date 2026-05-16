@@ -11,11 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Install xsltproc
-        run: sudo apt-get install -y xsltproc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xsltproc
       - name: Install python3 to setup jinja2-cli
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: 3.x
       - name: Install jinja2-cli
