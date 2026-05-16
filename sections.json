@@ -7,6 +7,7 @@
         "cnbot",
         "netpunch",
         "human-readable-json-logging",
+        "jray",
         "systemd-env-file",
         "ngramindex",
         "tc",

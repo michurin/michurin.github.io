@@ -24,6 +24,7 @@
 cat <<LIST >list.tmp
 cnbot
 human-readable-json-logging
+jray
 jsonpainter
 milisp
 minlog
