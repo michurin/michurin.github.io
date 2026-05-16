@@ -2,6 +2,7 @@
   "cov": {
     "cnbot": "74%",
     "human-readable-json-logging": "95%",
+    "jray": "91%",
     "jsonpainter": "100%",
     "milisp": "100%",
     "minlog": "100%",
@@ -32,6 +33,7 @@
           "cnbot",
           "netpunch",
           "human-readable-json-logging",
+          "jray",
           "systemd-env-file",
           "ngramindex",
           "tc",
@@ -186,6 +188,12 @@
       "forks": 0,
       "lang": "JavaScript",
       "stars": 0
+    },
+    "jray": {
+      "desc": "jray is a CLI tool for exploring and inspecting JSON data. It flattens JSON into .path=value pairs and supports JSONL, nested JSON strings, base64-encoded JSON, timestamp and UUIDv7 parsing. It is useful for reviewing large, complex payloads and logs. It helps with preparing bug reports and issue descriptions.",
+      "forks": 0,
+      "lang": "Go",
+      "stars": 2
     },
     "jsonpainter": {
       "desc": "Fuzzy JSON highlighting",
