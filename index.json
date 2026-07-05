@@ -2,7 +2,7 @@
   "cov": {
     "cnbot": "74%",
     "human-readable-json-logging": "95%",
-    "jray": "91%",
+    "jray": "93%",
     "jsonpainter": "100%",
     "milisp": "100%",
     "minlog": "100%",
@@ -176,6 +176,12 @@
       "forks": 2,
       "lang": "C++",
       "stars": 3
+    },
+    "homepage": {
+      "desc": null,
+      "forks": 0,
+      "lang": null,
+      "stars": 0
     },
     "human-readable-json-logging": {
       "desc": "The tool to pretty print JSON log stream right from running process in human readable format",
