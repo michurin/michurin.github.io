@@ -187,7 +187,7 @@
       "desc": "The tool to pretty print JSON log stream right from running process in human readable format",
       "forks": 1,
       "lang": "Go",
-      "stars": 24
+      "stars": 25
     },
     "instant-bot": {
       "desc": "Easily extensible Telegram bot",
@@ -200,6 +200,12 @@
       "forks": 0,
       "lang": "Go",
       "stars": 2
+    },
+    "jslength": {
+      "desc": "A tiny command-line utility that reports the length of a string exactly like JavaScript does",
+      "forks": 0,
+      "lang": "Makefile",
+      "stars": 0
     },
     "jsonpainter": {
       "desc": "Fuzzy JSON highlighting",
