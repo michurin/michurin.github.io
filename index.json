@@ -319,7 +319,7 @@
       "desc": "Online color picker for terminal 256 color palette. Examples for shell prompt, vim, term/xterm",
       "forks": 2,
       "lang": "HTML",
-      "stars": 14
+      "stars": 15
     },
     "zoclock": {
       "desc": "[googlecode] Small binary clock desktop widget",
